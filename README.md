@@ -5,4 +5,4 @@ This is about a program that aims for making a fair on-call schedule that suits 
 
 > Note: that you need to specify the variables nP (number of participants) and nD (number of days) before running the script.
 
-> For nP = 8 and nD = 30 (default values), the output file will contain 4 shifts for 6 random persons and 3 shifts for the remaining 2 individuals. 
+> For nP = 8 and nD = 30 (default values), the output file -On-Call Schedule.xlsx- will contain 4 shifts for 6 random persons and 3 shifts for the remaining 2 individuals. 
