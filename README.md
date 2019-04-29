@@ -1,7 +1,7 @@
 # Scheduling On Call Shifts
 This is about a program that aims for making a fair on-call schedule that suits everyone in the medical team. 
 
-> [OnCalls.py](OnCalls.py) uses the data stored on [OnCalls.xlsx](OnCalls.xlsx) which contains the names of the rotating residents' names and the dates on which they do not prefer having on-calls. It then generates a random schedule that suits everyone. 
+> [OnCalls.py](OnCalls.py) uses the data stored on [OnCalls.xlsx](OnCalls.xlsx) which contains the names of the rotating residents and the dates on which they do not prefer having on-calls. It then generates a random schedule that suits everyone. 
 
 > Note: that you need to specify the variables nP (number of participants) and nD (number of days) before running the script.
 
