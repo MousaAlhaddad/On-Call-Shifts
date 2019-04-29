@@ -7,5 +7,8 @@ This is about a program that aims for making a fair on-call schedule that suits 
 
 > For nP = 8 and nD = 30 (default values), the output file -[On-Call Schedule.xlsx](On-Call%20Schedule.xlsx)- will contain 4 shifts for 6 random persons and 3 shifts for the remaining 2 individuals. 
 
+# Contributing to the Repository
+All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
+
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
