@@ -7,6 +7,10 @@ Note: that you need to specify the variables nP (number of participants) and nD 
 
 For nP = 8 and nD = 30 (default values), the output file -[On-Call Schedule.xlsx](On-Call%20Schedule.xlsx)- will contain 4 shifts for 6 random persons and 3 shifts for the remaining 2 individuals. 
 
+## Dependencies
+* [NumPy](https://www.numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+
 ## Contributing to the Repository
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
 
